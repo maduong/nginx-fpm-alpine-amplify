@@ -2,8 +2,8 @@
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
- [![Docker Stars](https://img.shields.io/docker/stars/maduong/nginx-fpm-alpine-amplify.svg?style=plastic)](https://registry.hub.docker.com/v2/repositories/maduong/nginx-fpm-alpine-amplify/stars/count/) [![Docker pulls](https://img.shields.io/docker/pulls/maduong/nginx-fpm-alpine-amplify.svg?style=plastic)](https://registry.hub.docker.com/v2/repositories/maduong/nginx-fpm-alpine-amplify/)
-[![Docker Automated build](https://img.shields.io/docker/automated/maduong/nginx-fpm-alpine-amplify.svg?maxAge=2592000?style=plastic)](https://github.com/maduong/nginx-fpm-alpine-amplify/)
+ [![Docker Stars](https://img.shields.io/docker/stars/vuongpv/nginx-fpm-alpine-amplify.svg?style=plastic)](https://registry.hub.docker.com/v2/repositories/vuongpv/nginx-fpm-alpine-amplify/stars/count/) [![Docker pulls](https://img.shields.io/docker/pulls/vuongpv/nginx-fpm-alpine-amplify.svg?style=plastic)](https://registry.hub.docker.com/v2/repositories/vuongpv/nginx-fpm-alpine-amplify/)
+[![Docker Automated build](https://img.shields.io/docker/automated/vuongpv/nginx-fpm-alpine-amplify.svg?maxAge=2592000?style=plastic)](https://github.com/vuongpv/nginx-fpm-alpine-amplify/)
 
 - [1. Overview](#1-overview)
   - [1.1. NGINX Amplify Agent Inside Docker Container](#11-nginx-amplify-agent-inside-docker-container)
